@@ -1,0 +1,7 @@
+{
+  "name": "PorqueNao",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
